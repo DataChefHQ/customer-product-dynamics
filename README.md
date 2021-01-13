@@ -21,9 +21,9 @@ Attention to good coding practices and style will be noted. Also, feel free to i
 
 ### Expectations
 
-The purpose of this test is to assess your [problem solving skills](https://i.datachef.co/problem-solvers), creativity and experience in tackling a data science question and your style of communicating the results. It is completely up to you which data processing framework, machine learning library, or visualization tool, etc you use. However, please do explanation why you have decided to go with your chosen tools to for this mini project. 
+The purpose of this test is to assess your [problem solving skills](https://i.datachef.co/problem-solvers), creativity and experience in tackling a data science question and your style of communicating the results. It is completely up to you which data processing framework, machine learning library, or visualization tool, etc you use. However, please give an explanation as to why you decided to go with your chosen tools to for this mini project. 
 
-We don't expect extensive/fancy documentation or diagrams. A neat README.md along with clear inline comments is enough. Moreover, you don't need to finish the assignment 100% or perfect your code before posting it. Partial and incomplete solutions will be reviewed as well. That said, if you're completely happy with the foundations of your work and want to show off your engineering skills, feel free to design an API and even build a wrapper around it (bonus). 
+We don't expect extensive/fancy documentation or diagrams. A neat README.md along with clear inline comments is enough. Moreover, you don't need to finish the assignment 100% or perfect your code before posting it. Partial solutions will be reviewed as well. That said, if you're completely happy with the foundations of your work and want to show off your engineering skills, feel free to design an API and even build a web app around it (bonus). 
 
 ### Functional Requirements
 
